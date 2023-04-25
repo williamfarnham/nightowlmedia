@@ -10,3 +10,21 @@ p {
   letter-spacing: 8px;
   font-size: 20px;
 }
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: #38B1B1;
+  text-decoration: none;
+}
+
+a:active {
+  color: #38B1B1;
+}
